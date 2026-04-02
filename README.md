@@ -1,48 +1,52 @@
 # Gabriel Saraiva Garcia
 
-DevOps engineer with 3+ years of hands-on experience building and operating infrastructure, CI/CD pipelines, cloud environments, and self-hosted systems.
+DevOps engineer with 3+ years of hands-on experience building, automating, troubleshooting, and operating infrastructure in real environments.
 
-I like turning messy operational problems into repeatable systems.
+I work best where infrastructure, delivery, debugging, and automation meet.
 
-## What I work with
+## Core areas
 
 - AWS and cloud infrastructure
 - Terraform and infrastructure as code
 - CI/CD pipelines and delivery automation
-- Docker, containers, and Linux operations
-- Kubernetes troubleshooting and platform support
-- Monitoring, debugging, and incident-oriented thinking
-- Self-hosted services, reverse proxies, DNS, tunnels, and media automation
+- Kubernetes and container operations
+- Linux, Docker, reverse proxies, DNS, and tunnels
+- Troubleshooting playbooks and operational tooling
+- Self-hosted systems and automation-first workflows
 
-## Current focus
+## Featured work
 
-I am currently improving my public portfolio around practical DevOps work:
+### [DevOps & CI/CD Troubleshooting Playbook](https://github.com/gabriel-saraiva-garcia/devops-ci-cd-troubleshooting-playbook)
+Practical troubleshooting flows for AWS, Terraform, Kubernetes, Jenkins, containers, and delivery pipelines.
 
-- troubleshooting playbooks
-- automation toolkits
-- infrastructure labs
+### [Terraform Practice](https://github.com/gabriel-saraiva-garcia/EstudoTerraform)
+Infrastructure-as-code experiments and Terraform study work.
+
+### [Alpine Flask App](https://github.com/gabriel-saraiva-garcia/Alpine-Flask-App)
+A lightweight Flask application packaged with Docker and Alpine Linux.
+
+## What this profile is for
+
+This GitHub is my personal engineering space.
+
+Here I publish practical work related to:
+
+- DevOps and platform engineering
+- cloud operations
+- infrastructure automation
 - self-hosted operational tooling
+- debugging and incident-oriented thinking
 
-## Featured repository
+## How I think about engineering
 
-### DevOps & CI/CD Troubleshooting Playbook
-Practical troubleshooting flows for real operational issues involving AWS, Terraform, Kubernetes, Jenkins, containers, and delivery pipelines.
+- automate repetitive work
+- document what breaks and how to fix it
+- prefer simple systems that are easy to operate
+- treat troubleshooting as a core engineering skill
+- turn one-off fixes into repeatable tools and playbooks
 
-Repo: [devops-ci-cd-troubleshooting-playbook](https://github.com/gabriel-saraiva-garcia/devops-ci-cd-troubleshooting-playbook)
+## Current direction
 
-## Working style
+I am actively improving this profile around stronger public DevOps projects, better infrastructure examples, and reusable operational tooling.
 
-- Strong bias for automation
-- Comfortable debugging under pressure
-- Focused on practical results instead of theory-first overengineering
-- Interested in platform engineering, cloud operations, and internal tooling
-
-## What I want to build next
-
-- an ops-workbench for self-hosted and small-team infrastructure
-- better public IaC examples
-- reusable operational playbooks and templates
-
-## Contact
-
-If you are hiring for DevOps, Cloud, Platform, or Infrastructure-focused roles, feel free to connect with me here on GitHub.
+If you are hiring for DevOps, Cloud, Infrastructure, SRE, or Platform-focused roles, this is the work I want to be judged by.
